@@ -1,2 +1,2 @@
-# IvanTatarincev.github.io
+# Иван Татаринцев
 Мой первый сайт
